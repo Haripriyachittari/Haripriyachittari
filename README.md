@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haripriyachittari
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested Web development
 - 🌱 I’m currently learning javascript frameworks.
 - 📫 Reach me @hpvarma09@gmail.com
 
