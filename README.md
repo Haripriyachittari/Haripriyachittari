@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haripriyachittari
 - 👀 I’m interested Web development
-- 🌱 I’m currently learning javascript frameworks.
+- 🌱 I’m currently learning NodeJS and PostgreSQL.
 - 📫 Reach me @hpvarma09@gmail.com
 
 <!---
