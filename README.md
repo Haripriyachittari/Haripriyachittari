@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haripriyachittari
-- 👀 I’m interested Web development
-- 🌱 I’m currently learning NodeJS and PostgreSQL.
+- 👀 I’m a Frontend Developer aspiring to be a Full stack web developer
+- 🌱 I’m currently learning NodeJS/Express Js
 - 📫 Reach me @hpvarma09@gmail.com
 
 <!---
